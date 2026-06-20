@@ -30,11 +30,11 @@ Core strengths: building end-to-end AI-native applications, operationalizing LLM
 
 ---
 
-## Featured / Example Projects
-- [project-one](https://github.com/AdamMes/project-one) — short description
-- [project-two](https://github.com/AdamMes/project-two) — short description
+## Featured Projects
+- [VoyaNode]([https://github.com/AdamMes/project-one](https://github.com/AdamMes/voyanode)) — State-of-the-art Retrieval-Augmented Generation (RAG) system designed to transform travel documents (PDFs) into an interactive, intelligent travel assistant. Built on AWS Serverless architecture, it leverages high-performance vector search and generative AI to provide factual, context-aware travel advice.
 
-(Replace with the projects you want to showcase; use the profile "Pinned repositories" to highlight them.)
+
+- [N8N Intelligent cloud finance document analyst]([https://github.com/AdamMes/project-two](https://github.com/AdamMes/n8n-intelligent-cloud-finance-document-analyst)) — An automated document ingestion and semantic analysis pipeline. The system monitors a local folder for corporate financial documents (PDF, TXT, and DOCX), extracts text and embedded images via a Python FastAPI microservice, orchestrates the pipeline in n8n, analyzes content with Google Gemini, enriches metadata, and exports results to Google Sheets, Gmail, and local JSON/Markdown files.
 
 ---
 

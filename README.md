@@ -1,26 +1,20 @@
 # Hi, I'm Adam 👋
 
 AI Engineer · LLM Systems, RAG & Autonomous Agents  
-Herzliya, Tel Aviv District, Israel
 
-Contact
-- Email: adammes23@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adammeshulam
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Meshulam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammeshulam) [![Email](https://img.shields.io/badge/Email-adammes23%40gmail.com-important?logo=gmail&logoColor=white)](mailto:adammes23@gmail.com) [![Topics](https://img.shields.io/badge/Topics-AI%20%7C%20LLM%20%7C%20RAG%20%7C%20LangChain-lightgrey)](#)
 
----
+I design and deploy production-ready GenAI applications—LLM orchestration, RAG pipelines, and autonomous agents—bridging research and reliable infrastructure.
 
-## About
-I architect and deploy production-ready AI & GenAI systems. With 5 years of software development experience, I specialize in turning complex AI concepts into scalable business solutions. I take a pragmatic approach—tailoring the stack (from multi-agent architectures and RAG pipelines to robust backend services) to match business and security needs.
+Quick highlights
+- ✅ 5 years web development experience.
+- ⚙️ Production LLM orchestration (OpenAI, Claude, Gemini, Ollama).
+- 🧭 RAG & vector search (FAISS), LangChain, multi-agent systems.
+- ☁️ Infra & automation: Python (FastAPI), AWS Bedrock, Lambda, S3, MCP servers.
+- 🔁 CI/CD and workflow automation for AI-native products.
 
-Core strengths: building end-to-end AI-native applications, operationalizing LLMs, and delivering secure, maintainable infrastructure.
-
----
-
-## Core Expertise
-- AI & Agents: LangChain, multi-agent systems, RAG (FAISS), LLM orchestration (OpenAI, Claude, Gemini, Ollama)
-- Backend & Infra: Python (FastAPI), n8n, MCP servers, AWS (Bedrock, Lambda, EC2, S3)
-- CI/CD & Automation: Continuous Integration / Continuous Delivery pipelines, workflow orchestration
-- AI-native tooling: Cursor, Claude Code, CLI orchestration, Model Context Protocol (MCP)
+Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i... ) ![FAISS](https://img.shields.io/badge/FAISS-0b0b0b?logo=python) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-f15b2a?logo=n8n&logoColor=white)
 
 ---
 
@@ -38,17 +32,10 @@ Core strengths: building end-to-end AI-native applications, operationalizing LLM
 
 ---
 
-## Top Skills
-- CI/CD · Model Context Protocol (MCP) · AWS Bedrock
-- LangChain · RAG (FAISS) · Multi-agent systems
-- Python · FastAPI · n8n · AWS Lambda/EC2/S3
-
----
-
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMes&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMes&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMes&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMes&layout=compact&theme=dark)
 
 ---
 
-Thanks for visiting — feel free to reach out if you want to collaborate or discuss AI systems & deployment.
+Thanks for visiting — feel free to reach out if you want to collaborate on AI systems, RAG pipelines, or autonomous agents.
